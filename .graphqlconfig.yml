@@ -1,6 +1,6 @@
 projects:
-  Codegen Project:
-    schemaPath: schema.graphql
+  jtinsurance-backend-princez:
+    schemaPath: src/graphql/schema.json
     includes:
       - src/graphql/**/*.js
     excludes:
@@ -11,9 +11,7 @@ projects:
         generatedFileName: ''
         docsFilePath: src/graphql
         region: us-east-1
-        apiId: nilmqg7425b2vkw6d6nahsgdf4
-        frontend: javascript
-        framework: react
+        apiId: gw2zhsoqongzfak5rmjchnpi5y
         maxDepth: 2
 extensions:
   amplify:
